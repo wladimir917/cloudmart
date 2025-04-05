@@ -17,7 +17,7 @@ const ProductCard = ({ product, onAddToCart }) => {
       : product.description;
 
   return (
-    <div className="bg-red p-4 rounded-lg shadow-md flex flex-col justify-between h-full">
+    <div className="bg-white p-4 rounded-lg shadow-md flex flex-col justify-between h-full">
       <div>
         <img
           src={product.image}
@@ -90,7 +90,7 @@ const CloudMartMainPage = () => {
       <Header />
       <main className="container mx-auto py-8 flex-grow px-4">
         <div className="flex justify-between items-center mb-6">
-          <h2 className="text-2xl font-bold">Featured Products Ofert Wlad Code</h2>
+          <h2 className="text-2xl font-bold">Featured Products Ofert Wlad</h2>
           <div className="relative">
             <input
               type="text"
