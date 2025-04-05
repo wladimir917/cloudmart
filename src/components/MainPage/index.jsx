@@ -17,7 +17,7 @@ const ProductCard = ({ product, onAddToCart }) => {
       : product.description;
 
   return (
-    <div className="bg-white p-4 rounded-lg shadow-md flex flex-col justify-between h-full">
+    <div className="bg-red p-4 rounded-lg shadow-md flex flex-col justify-between h-full">
       <div>
         <img
           src={product.image}
