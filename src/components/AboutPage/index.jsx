@@ -34,7 +34,7 @@ const AboutPage = () => {
           </ul>
           <h2 className="text-2xl font-semibold mb-4">About American Limo Transportation</h2>
           <p className="mb-4">
-          American Limo Transportation is a leading provider. Through projects like American Limo Transportation, they offer students the opportunity to gain practical experience with real-world applications of cloud and AI technologies.
+          American Transportation is a leading provider. Through projects like American Limo Transportation, they offer students the opportunity to gain practical experience with real-world applications of cloud and AI technologies.
           </p>
           <p>
             For more information about American Transportation and their service, visit <a href="https://www.americanlimofl.com" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">www.americanlimofl.com</a>.
